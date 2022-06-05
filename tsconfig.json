@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "types": ["node"],
+        "outDir": "./dist",
+        "module": "CommonJS",
+        "target": "ES2015",
+        "skipLibCheck": true
+    },
+    "@typescript-eslint/no-explicit-any": "off",
+    "include": ["src"]
+}
